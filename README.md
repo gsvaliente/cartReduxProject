@@ -1,5 +1,7 @@
 # ABOUT THE APP
 
+Check out the app [here](https://starlit-dolphin-21f139.netlify.app)
+
 Small cart component in which contextAPI and useReducer is used to make a functioning Cart.
 The app loads the products from an external Api and loads them with the useEffect hook inside the context.
 
